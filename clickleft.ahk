@@ -1,0 +1,3 @@
+a::
+    Click, Down
+Return
